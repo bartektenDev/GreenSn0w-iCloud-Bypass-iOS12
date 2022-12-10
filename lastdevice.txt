@@ -1,0 +1,79 @@
+ActivationState: Unactivated
+BasebandActivationTicketVersion: V2
+BasebandCertId: 3554301762
+BasebandChipID: 7282913
+BasebandKeyHashInformation: 
+ AKeyStatus: 2
+ SKeyHash: 7MQEUyvzG4gjjZc7KsNNAVTS8g4=
+ SKeyStatus: 0
+BasebandMasterKeyHash: AEA5CCE143668D0EFB4CE1F2C94C966A6496C6AA
+BasebandRegionSKU: BAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+BasebandSerialNumber: Nu0bTw==
+BasebandStatus: BBInfoAvailable
+BasebandVersion: 10.80.02
+BluetoothAddress: 08:74:02:18:99:40
+BoardId: 0
+BrickState: true
+BuildVersion: 16H71
+CPUArchitecture: arm64
+CarrierBundleInfoArray[0]: 
+CertID: 3554301762
+ChipID: 35168
+ChipSerialNo: Nu0bTw==
+DeviceClass: iPhone
+DeviceColor: #e1e4e3
+DeviceName: iPhone
+DieID: 7659862145608
+EthernetAddress: 08:74:02:18:99:41
+FirmwareVersion: iBoot-4513.270.14
+FusingStatus: 3
+HardwareModel: N51AP
+HardwarePlatform: s5l8960x
+HasSiDP: true
+HostAttached: true
+InternationalMobileEquipmentIdentity: 013968005998078
+MLBSerialNumber: FJ6533508RHFGCCG
+MobileSubscriberCountryCode: 
+MobileSubscriberNetworkCode: 
+ModelNumber: ME307
+NonVolatileRAM: 
+ IONVRAM-SYNCNOW-PROPERTY: SU9OVlJBTS1TWU5DTk9XLVBST1BFUlRZ
+ auto-boot: dHJ1ZQ==
+ backlight-level: MTU0MQ==
+ boot-args: 
+ boot-breadcrumbs: PEJPT1Q+IDAwMDMwMDBjKDY5NjI2NTYzKSA0MDA0MDAyMSA0MDA0MDAxZSA0MDAzMDAwZSA8Q09NTUlUPiA8Qk9PVD4gMDAwMzAwMGYoNjQ3NDcyNjUpIDQwMDYwMDA0IDAwMDMwMDExIDAwMDMwMDA3IDAwMDMwMDBjKDY0NzQ3MjY1KSAwMDAzMDAwZCAwMDAzMDAwZig2YjcyNmU2YykgMDAwMzAwMGMoNmI3MjZlNmMpIDAwMDMwMDBkIDAwMDMwMDEwIDxET05FPiA8Q09NTUlUPiA=
+ bootdelay: MA==
+ com.apple.System.tz0-size: MHg2MDAwMDA=
+ oblit-begins: T2JsaXRUeXBlOiBPYmxpdGVyYXRlRGF0YVBhcnRpdGlvbi4gTm8gcmVhc29uIGdpdmVuLg==
+ obliteration: aGFuZGxlX21lc3NhZ2U6IE9ibGl0ZXJhdGlvbiBDb21wbGV0ZQo=
+PartitionType: GUID_partition_scheme
+PasswordProtected: false
+PkHash: 09pXQgM5cjY6TJJNOOzO//R5JuGKqjHElfshBbnxrhg=
+ProductName: iPhone OS
+ProductType: iPhone6,1
+ProductVersion: 12.5.6
+ProductionSOC: true
+ProtocolVersion: 2
+ProximitySensorCalibration: T00DAA4KSzkQAwAAAABeAQAA0gACAANEwwMCAEiY8QLuAlwAAZVjAlemgxsAAAC7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+RegionInfo: LL/A
+SIMStatus: kCTSIMSupportSIMStatusNotInserted
+SIMTrayStatus: kCTSIMSupportSIMTrayInsertedNoSIM
+SerialNumber: DX3Q88HMFFDQ
+SoftwareBehavior: EQAAAAAAAAAAAAAAAAAAAA==
+SoftwareBundleVersion: 
+SupportedDeviceFamilies[1]: 
+ 0: 1
+TelephonyCapability: true
+TimeIntervalSince1970: 1670712427.384643
+TimeZone: America/Chicago
+TimeZoneOffsetFromUTC: -21600.000000
+TrustedHostAttached: true
+UniqueChipID: 7659862145608
+UniqueDeviceID: 1e6899c9bfb358073ea6cdf9e233369b245cf4a2
+UntrustedHostBUID: 1077CB09-D7A6-4C23-8290-37FF9ED68CE8
+UseRaptorCerts: true
+Uses24HourClock: false
+WiFiAddress: 08:74:02:18:99:3f
+kCTPostponementInfoPRLName: 0
+kCTPostponementInfoServiceProvisioningState: false
+kCTPostponementStatus: kCTPostponementStatusActivated
