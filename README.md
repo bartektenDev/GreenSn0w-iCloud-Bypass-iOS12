@@ -1,7 +1,7 @@
 # GreenSn0w-iCloud-Bypass-iOS12
 iOS 12-12.5.6 iCloud Bypass tool. Tethered using checkra1n. Designed by @ios_euphoria on twitter.
 
-![alt text](https://github.com/bartektenDev/GreenSn0w-iCloud-Bypass-iOS12/blob/main/extras/checkra1n/Screen%20Shot%202022-12-10%20at%2011.50.44%20PM.png=140x70)
+![alt text](https://github.com/bartektenDev/GreenSn0w-iCloud-Bypass-iOS12/blob/main/extras/checkra1n/Screen%20Shot%202022-12-10%20at%2011.50.44%20PM.png?raw=true=140x70)
 
 ![alt text](https://raw.githubusercontent.com/bartektenDev/GreenSn0w-iCloud-Bypass-iOS12/main/extras/checkra1n/Screen%20Shot%202022-12-10%20at%2011.51.02%20PM.png=140x70)
 
